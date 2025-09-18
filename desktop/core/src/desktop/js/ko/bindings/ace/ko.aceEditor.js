@@ -253,7 +253,7 @@ registerBinding(NAME, {
         true
       );
     }
-    editorOptions['tabSize'] = 2;
+    editorOptions['tabSize'] = 4;
     editorOptions['useSoftTabs'] = true;
 
     editor.setOptions(editorOptions);
