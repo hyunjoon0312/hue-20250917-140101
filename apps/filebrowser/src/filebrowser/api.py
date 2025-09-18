@@ -454,9 +454,6 @@ def upload_chunks(request):
   and performs the upload task.
 
   Args:
-  
-  
-  
     request (HttpRequest): The HTTP request object containing the chunked file.
 
   Returns:
