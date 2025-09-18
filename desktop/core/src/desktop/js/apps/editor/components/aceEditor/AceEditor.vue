@@ -175,7 +175,7 @@
           scrollPastEnd: 0.1,
           minLines: 3,
           maxLines: 25,
-          tabSize: 2,
+          tabSize: 4,
           useSoftTabs: true,
           ...aceOptions.value
         };
